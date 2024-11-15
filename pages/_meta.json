@@ -1,15 +1,16 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "欢迎来到Transzh",
+  "page1": "页面1",
+  "page2": "页面2",
+  
   "about": {
-    "title": "About",
+    "title": "关于我们",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "联系我们",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "放链接在这里",
     "newWindow": true
   }
 }
