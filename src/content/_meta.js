@@ -5,7 +5,7 @@ export default {
             layout: 'full'
           }
     },
-    document:{
+    guide:{
         title:'文档',
         type:'page'
     },

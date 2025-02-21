@@ -16,7 +16,7 @@ const MainPage = () => {
     <div className="home-content">
       <div className="content-container">
         <h1 className="headline">
-          中文跨性别维基 
+          中文跨性别维基
         </h1>
         <p className="subtitle">
           {' '}
@@ -24,8 +24,8 @@ const MainPage = () => {
           {' '}
         </p>
         <p className="subtitle">
-          <Link className={styles.cta} href="/docs">
-            浏览内容 <span>→</span>
+          <Link className={styles.cta} href="/guide">
+            查看文档 <span>→</span>
           </Link>
         </p>
       </div>
