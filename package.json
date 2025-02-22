@@ -1,7 +1,7 @@
 {
-  "name": "trans-zh",
+  "name": "Transzh",
   "version": "0.0.1",
-  "description": "trans-zh",
+  "description": "中文跨性别维基是一个集知识科普与信息共享为一体的网站项目。",
   "scripts": {
     "build": "next build",
     "dev": "next --turbopack",
