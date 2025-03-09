@@ -20,7 +20,7 @@ title: 写作示例，这里是网页标题（此区域勿动）
 2. [来源名称](链接)
 
 关于引用内容的写法，请参考如下网页：
-https://aboutrans.info/document/q-and-a.html
+https://aboutrans.info/documents/q-and-a
 > 此网页应用了注脚插件，因此引用语法会有所不同，请以本文档为准。
 
 如有需要高亮的文本，请使用如下语法：
