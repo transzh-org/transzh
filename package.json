@@ -1,8 +1,8 @@
 {
-  "name": "中文跨性别维基",
+  "name": "transzh",
   "version": "0.0.1",
-  "description": "中文跨性别维基是一个面向跨性别社群和希望深入了解跨性别群体的人的一个跨性别相关知识百科全书。",
-  "scripts": {
+  "description": "中文跨性别维基是一个面向跨性别社群的知识科普百科网站。",
+    "scripts": {
     "build": "next build",
     "dev": "next --turbopack",
     "postbuild": "pagefind --site .next/server/app --output-path public/_pagefind",

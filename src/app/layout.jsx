@@ -14,13 +14,13 @@ const navbar = (
     // ... Your additional navbar options
   />
 )
-const footer = <Footer>MIT {new Date().getFullYear()} © Nextra.</Footer>
+const footer = <Footer>© {new Date().getFullYear()}  中文跨性别维基</Footer>
  
 export default async function RootLayout({ children }) {
   return (
     <html
       // Not required, but good for SEO
-      lang="zh-CN"
+      lang="zh"
       // Required to be set
       dir="ltr"
       // Suggested by `next-themes` package https://github.com/pacocoursey/next-themes#with-app
